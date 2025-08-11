@@ -54,4 +54,10 @@ Repositori ini disusun dengan rapi untuk memudahkan navigasi:
 └── README.md                  # File ini
 
 
-LinkedIn: (https://www.linkedin.com/in/nabilasadiyahh/)
+<img width="1366" height="665" alt="Screenshot (1316)" src="https://github.com/user-attachments/assets/e47ecc3b-338a-46ac-a712-5a5cc13854c8" />
+
+
+
+Dahsboard Streamlit: https://demand-forecast-portof.streamlit.app/
+LinkedIn: https://www.linkedin.com/in/nabilasadiyahh/
+
