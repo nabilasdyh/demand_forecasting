@@ -1,11 +1,6 @@
+
+
 🛒 Retail Demand Forecasting Dashboard
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Streamlit-1.28.0-red?style=for-the-badge&logo=streamlit">
-<img src="https://img.shields.io/badge/SARIMAX-Model-brightgreen?style=for-the-badge">
-</p>
 
 🚀 Mengubah Data Menjadi Keputusan Bisnis Cerdas
 Selamat datang di proyek Retail Demand Forecasting Dashboard! Proyek ini adalah solusi berbasis Machine Learning yang dirancang untuk membantu manajer ritel mengoptimalkan manajemen stok. Dashboard interaktif ini memungkinkan kita untuk memprediksi permintaan produk di masa depan, mencegah stockout yang merugikan, dan menghindari overstock yang memboroskan biaya.
