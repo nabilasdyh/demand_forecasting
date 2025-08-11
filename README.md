@@ -1,6 +1,5 @@
 
-
-🛒 Retail Demand Forecasting Dashboard
+# 🛒 Retail Demand Forecasting Dashboard
 
 🚀 Mengubah Data Menjadi Keputusan Bisnis Cerdas
 Selamat datang di proyek Retail Demand Forecasting Dashboard! Proyek ini adalah solusi berbasis Machine Learning yang dirancang untuk membantu manajer ritel mengoptimalkan manajemen stok. Dashboard interaktif ini memungkinkan kita untuk memprediksi permintaan produk di masa depan, mencegah stockout yang merugikan, dan menghindari overstock yang memboroskan biaya.
